@@ -1,0 +1,1 @@
+This is the basic / static design of an gym webpage .
